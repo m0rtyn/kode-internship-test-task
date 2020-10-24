@@ -167,3 +167,8 @@ getObjectProperty(obj, "pupa.ne.tuda", "Default value"); // > 'Default value'
 Смело открывайте [Github Issue к этому репозиторию](https://github.com/martyns0n/kode-internship-test-task/issues) с любыми вопросами, замечаниями и предложениями. Мы ответим вам ~~в тот же день~~ в тот же день, честно.
 
 ![Пример открытого Issue](./images/issue-example.png)
+
+Важные вопросы от вас:
+
+- [Про реализацию OTP](https://github.com/martyns0n/kode-internship-test-task/issues/2)
+- [Про использование библиотек во второй задаче](https://github.com/martyns0n/kode-internship-test-task/issues/4)
